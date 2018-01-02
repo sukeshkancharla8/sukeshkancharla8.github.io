@@ -3,16 +3,11 @@
 This is Sukesh Kancharla. Here you can view all my projects.
 
 
-### Markdown
+### Projects
 DBMS Assignment [Link](https://sukeshkancharla8.github.io). <br>
 Java Core Assignment [Link](https://sukeshkancharla8.github.io). <br> 
 Java Advanced Assignment [Link](https://sukeshkancharla8.github.io). <br>
 Java Multi-Threading Assignment [Link](https://sukeshkancharla8.github.io). <br>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sukeshkancharla8/sukeshkancharla8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Contact
+sukesh.kancharla@accoliteindia.com
