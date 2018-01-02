@@ -4,10 +4,10 @@ This is Sukesh Kancharla. Here you can view all my projects.
 
 
 ### Markdown
-DBMS Assignment [Link](https://sukeshkancharla8.github.io). 
-Java Core Assignment [Link](https://sukeshkancharla8.github.io). 
-Java Advanced Assignment [Link](https://sukeshkancharla8.github.io). 
-Java Multi-Threading Assignment [Link](https://sukeshkancharla8.github.io). 
+DBMS Assignment [Link](https://sukeshkancharla8.github.io). <br>
+Java Core Assignment [Link](https://sukeshkancharla8.github.io). <br> 
+Java Advanced Assignment [Link](https://sukeshkancharla8.github.io). <br>
+Java Multi-Threading Assignment [Link](https://sukeshkancharla8.github.io). <br>
 
 ### Jekyll Themes
 
