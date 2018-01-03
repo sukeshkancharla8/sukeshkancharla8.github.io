@@ -8,6 +8,6 @@ DBMS Assignment [Link](https://github.com/sukeshkancharla8/SQL_Assignment). <br>
 Java Core Assignment [Link](https://sukeshkancharla8.github.io). <br> 
 Java Advanced Assignment [Link](https://sukeshkancharla8.github.io). <br>
 Java Multi-Threading Assignment [Link](https://github.com/sukeshkancharla8/MultiThreadingEvenOdd). <br>
-
+SOAP CRUD operations [Link](https://github.com/sukeshkancharla8/SOAP_CRUD_Person). <br>
 ### Contact
 sukesh.kancharla@accoliteindia.com
