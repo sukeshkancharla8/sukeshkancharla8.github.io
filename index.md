@@ -13,5 +13,6 @@ Servlets and JSP [Link](https://github.com/sukeshkancharla8/ServletAndJsp). <br>
 Singleton Pattern [Link](https://github.com/sukeshkancharla8/SingletonPatternDemo). <br>
 Factory Pattern [Link](https://github.com/sukeshkancharla8/FactoryPatternDemo). <br>
 Observer Pattern [Link](https://github.com/sukeshkancharla8/ObserverPatternDemo). <br>
+CRUD Using REST [Link](https://github.com/sukeshkancharla8/RestCrudWithDatabase). <br>
 ### Contact
 sukesh.kancharla@accoliteindia.com
