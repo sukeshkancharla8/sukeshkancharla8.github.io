@@ -14,5 +14,7 @@ Singleton Pattern [Link](https://github.com/sukeshkancharla8/SingletonPatternDem
 Factory Pattern [Link](https://github.com/sukeshkancharla8/FactoryPatternDemo). <br>
 Observer Pattern [Link](https://github.com/sukeshkancharla8/ObserverPatternDemo). <br>
 CRUD Using REST [Link](https://github.com/sukeshkancharla8/RestCrudWithDatabase). <br>
+Spring Annotations [Link](https://github.com/sukeshkancharla8/SpringAnnotations). <br>
+Code Quality in Java and JS (Sonar rules) [Link](https://github.com/sukeshkancharla8/Code-Quality). <br>
 ### Contact
 sukesh.kancharla@accoliteindia.com
